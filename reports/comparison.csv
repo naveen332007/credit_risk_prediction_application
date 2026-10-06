@@ -1,0 +1,4 @@
+models,accuracy
+<class 'sklearn.linear_model._logistic.LogisticRegression'>,0.749
+<class 'sklearn.neighbors._classification.KNeighborsClassifier'>,0.734
+<class 'sklearn.tree._classes.DecisionTreeClassifier'>,0.694
